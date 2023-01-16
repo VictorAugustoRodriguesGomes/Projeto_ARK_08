@@ -1,7 +1,10 @@
 <img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_08_Java/blob/main/img/base/java.png?raw=true" align="right"/>
 
 # Projeto ARK 08
+
 Os projetos nomeados ARK são uma aplicação desenvolvida em Java na IDE NetBeans. O objetivo é desenvolver um projeto partindo de listas de exercícios encontrados na Internet, seriam projetos mais simples.
+
+Ark 8 é um projeto que realiza operações matemáticas, por meio do JOptionPane, o usuário irá informar 2 números e a operação aritmética a qual ele deseja realizar, com esse projeto o usuário poderá realizar as operações aritméticas fundamentais (adição, subtração, multiplicação e divisão).
 
 </br>
 
