@@ -1,7 +1,7 @@
 <img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_08_Java/blob/main/img/base/java.png?raw=true" align="right"/>
 
 # Projeto ARK 08
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Os projetos nomeados ARK são uma aplicação desenvolvida em Java na IDE NetBeans. O objetivo é desenvolver um projeto partindo de listas de exercícios encontrados na Internet, seriam projetos mais simples.
 
 </br>
 
