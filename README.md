@@ -28,5 +28,4 @@ Este projeto é licenciado sob os termos da licença do MIT.
 
 ---------
 
-
 <img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_08_Java/blob/main/img/base/dados.png?raw=true"/>
